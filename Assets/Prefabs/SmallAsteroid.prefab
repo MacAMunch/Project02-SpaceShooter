@@ -118,8 +118,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 87679c2bd9876461caeea9311e261e7d, type: 2}
 --- !u!50 &2888120219562929921
 Rigidbody2D:
   serializedVersion: 4
